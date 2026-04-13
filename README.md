@@ -36,17 +36,24 @@ To bridge the gap between data-driven intelligence and physics-based engineering
 * Python 3.8+
 * PyTorch 1.12+
 * NumPy, SciPy, Matplotlib, Pandas
-
-### Installation
-Clone the repository and install the required dependencies:
-
-```bash
-git clone [https://github.com/Monash-Civil-CV-Team/NRNN.git](https://github.com/Monash-Civil-CV-Team/NRNN.git)
-cd NRNN
-pip install -r requirements.txt
-
-
 ---
+## 📊 Datasets
+
+The high-fidelity synthetic datasets and independent experimental datasets used in this study rigorously evaluate the model across varying degrees of geomechanical complexity. They cover four distinct rock types:
+
+* **Limestone**
+* **Marble**
+* **Sandstone**
+* **Shale**
+
+> **Data Availability:** The datasets are available from the corresponding author upon reasonable request.
+---
+
+
+## 📢 Notice
+The full source code will be officially released and made publicly available in this repository upon the publication of the related paper.
+---
+
 
 ## 📜 Citation
 
